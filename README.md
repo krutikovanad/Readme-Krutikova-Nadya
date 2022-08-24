@@ -1,7 +1,7 @@
  Readme-Krutikova-Nadya
 <h1 align="center">Hi 👋, I'm Nadya</h1>
 <h3>ABOUT ME</h3>
-<h3 align="center">IT Career Coach - I will help you find your dream job in IT.</h3>
+<h3 align="left">IT Career Coach - I will help you find your dream job in IT.</h3>
 <h3>Who am I?</h3>
 
   - Ex HR manager, HR Business Partner, HR Director in Russian and international companies;
