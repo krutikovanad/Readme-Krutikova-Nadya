@@ -1,4 +1,4 @@
-# Readme-Krutikova-Nadya
+ Readme-Krutikova-Nadya
 <h1 align="center">Hi 👋, I'm Nadya</h1>
 <h3>ABOUT ME</h3>
 <h3 align="center">IT Career Coach - I will help you find your dream job in IT.</h3>
