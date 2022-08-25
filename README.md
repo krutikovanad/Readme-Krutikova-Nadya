@@ -19,6 +19,9 @@
 
 - ⚡ Fun fact **my daughter reads tarot cards ♣♦♠♥ for job search and career guidance**
 
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/9Vvoj75o3ZsK6TRUqH/giphy.gif>
+</div>
 
 ## 
 
