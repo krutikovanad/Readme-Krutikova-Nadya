@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **how to make CV, how to prepare to interview**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1raqSzQoEgM7U61mqP3d54SI9bJ9QYpP7/view?usp=share_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1pAnEQJxehshuofpY9PhbMRUhexrlD0Vf/view?usp=share_link)
 
 - ⚡ Fun fact **my daughter reads tarot cards ♣♦♠♥ for job search and career guidance**
 
